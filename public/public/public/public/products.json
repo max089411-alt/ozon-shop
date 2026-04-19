@@ -1,5 +1,0 @@
-[
-    { "id": 1, "name": "Футболка оверсайз", "price": 1490, "img": "https://placehold.co/300x300/eee/999?text=Футболка" },
-    { "id": 2, "name": "Кроссовки беговые", "price": 4990, "img": "https://placehold.co/300x300/eee/999?text=Кроссовки" },
-    { "id": 3, "name": "Рюкзак городской", "price": 2790, "img": "https://placehold.co/300x300/eee/999?text=Рюкзак" }
-]
